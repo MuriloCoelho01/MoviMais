@@ -29,5 +29,5 @@ As plataformas/tecnologias que estamos utilizando para o desenvolvimento do Proj
 
 ```
 Trello
-Google Meet
+Discord
 ```
