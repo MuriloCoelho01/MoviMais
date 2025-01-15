@@ -1,20 +1,33 @@
-## Foco e Solução
+# Bem-vindo(a) à **Movi+** 🏃🏾‍♂️  
 
-Nosso foco é atender **academias de bairro**, oferecendo uma plataforma inovadora que permite aos usuários **economizar dinheiro** com serviços de **personal trainer** e **nutricionista**.
+A **Movi+** Nosso foco é atender **academias de bairro**, oferecendo uma plataforma inovadora que permite aos usuários **economizar dinheiro** com serviços de **personal trainer** e **nutricionista**.
 
-## Funcionamento
+---
 
-Na nossa solução, os usuários inserem informações como:  
-- **Idade**  
-- **Peso**  
-- **Altura**  
-- **Objetivos** (como ganhar massa muscular ou perder peso)  
+## Funcionalidades
 
-Com base nesses dados, uma **Inteligência Artificial** processa as informações e gera **relatórios personalizados**, que incluem:  
-1. **Plano alimentar** adaptado às necessidades do usuário.  
-2. **Recomendações de treinos específicos**, como funcional, musculação e cardio.  
-3. **Orientações detalhadas** sobre a execução dos exercícios e um **cronograma de treinos personalizado**.  
+### 1. Planos Alimentares Personalizados🥗
+Receba orientações detalhadas para refeições equilibradas, ajustadas à idade, peso, altura e metas. Maximize sua saúde com um plano feito sob medida para suas necessidades.
 
-## Garantia de Qualidade
+### 2. Treinos Personalizados🏋🏾‍♂️
+Acesse treinos eficazes adaptados ao seu perfil e objetivos. Seja para perder peso, ganhar massa muscular ou manter a forma, o programa é elaborado para garantir resultados de forma prática e eficiente.
 
-Todos os relatórios gerados pela IA serão **revisados e aprovados** por **profissionais de educação física** e **nutrição** antes de serem disponibilizados aos usuários, garantindo **precisão e segurança** nas recomendações.
+### 3. Loja de Produtos Fitness🥇
+Descubra uma loja completa com suplementos, equipamentos e roupas de treino. Tenha acesso aos melhores produtos para alcançar seus objetivos, combinando qualidade, praticidade e desempenho.
+
+
+# Tecnologias utilizadas:
+
+Tecnologias escolhidas são atuais, consolidadas e fáceis de aprender, garantindo qualidade e agilidade.
+```
+Kotlin
+Android Framework
+Jetpack Compose
+IntelliJ IDEA
+```
+As plataformas/tecnologias que estamos utilizando para o desenvolvimento do Projeto são: 
+
+```
+Trello
+Google Meet
+```
