@@ -24,10 +24,14 @@ Kotlin
 Android Framework
 Jetpack Compose
 IntelliJ IDEA
+HTML
+CSS
+REACT
 ```
 As plataformas/tecnologias que estamos utilizando para o desenvolvimento do Projeto são: 
 
 ```
 Trello
 Discord
+GitHub
 ```
