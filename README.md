@@ -26,7 +26,7 @@ Jetpack Compose
 IntelliJ IDEA
 HTML
 CSS
-REACT
+REACTJS
 ```
 As plataformas/tecnologias que estamos utilizando para o desenvolvimento do Projeto são: 
 
