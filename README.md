@@ -35,3 +35,5 @@ Trello
 Discord
 GitHub
 ```
+
+Evolução e acompanhamento de projeto: https://trello.com/b/uIZ6D5jL/movi
