@@ -60,3 +60,9 @@ Esse modelo nos permite faturar com base na quantidade de planos vendidos, ao me
 Murilo Coelho - 
 Maykon Silva - 
 Guilherme Oliveira - 
+
+---
+
+# Desenvolvolvimento do projeto📊
+
+ https://trello.com/b/uIZ6D5jL/movi
