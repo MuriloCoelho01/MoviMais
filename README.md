@@ -9,14 +9,6 @@ A **Movi+** é uma plataforma inovadora focada em academias de bairro, que visa 
 
 Facilitar o acesso a serviços, como personal trainer e nutricionista, que geralmente são caros, para pessoas de baixa renda. Além disso, auxiliar iniciantes na vida fitness, oferecendo segurança e confiança para alcançar seus objetivos, enquanto modernizamos academias locais, levando tecnologia para bairros de menor poder aquisitivo. 💻🏋️‍♂️
 
-### Cliente 🏢
-
-- **Academias de bairro** 🏘️
-
-### Consumidor 👤
-
-- **Aluno da academia** 🧑‍🎓
-
 ---
 
 ## Funcionalidades 🚀
@@ -57,7 +49,7 @@ Esse modelo nos permite faturar com base na quantidade de planos vendidos, ao me
 ## Acessibilidade ♿
 
 
-em breve mais informações...
+### em breve mais informações...
 ---
 
 
