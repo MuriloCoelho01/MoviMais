@@ -35,7 +35,9 @@ fun Inicio() {
       horizontalAlignment = Alignment.CenterHorizontally,
       modifier = Modifier
           .fillMaxSize()
-  ) {  }
+  ) {
+      
+  }
 }
 
 @Preview(showBackground = true)
