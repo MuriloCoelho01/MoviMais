@@ -34,10 +34,14 @@ fun Inicio() {
       verticalArrangement = Arrangement.Center,
       horizontalAlignment = Alignment.CenterHorizontally,
       modifier = Modifier
+<<<<<<< HEAD
           .fillMaxSize()
   ) {
       
   }
+=======
+  ) {  }
+>>>>>>> 2a7db65ab4ce6c2d2d4907b0d4928b9c4e26c395
 }
 
 @Preview(showBackground = true)
